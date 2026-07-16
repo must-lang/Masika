@@ -1,2 +1,2 @@
 # Masika
-Masika - Must programming language compile r.
+Masika - Must programming language compiler.
